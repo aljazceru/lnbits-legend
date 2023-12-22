@@ -25,7 +25,6 @@ LNbits can run on top of any Lightning funding source. It currently supports the
 - LND (REST and gRPC)
 - Core Lightning aka CLN (gRPC, REST and Spark)
 - Eclair
-- LNPay
 - LNbits
 - OpenNode
 - Alby
@@ -35,7 +34,7 @@ See [LNbits manual](https://docs.lnbits.org/guide/wallets.html) for more detaile
 
 Checkout the LNbits [YouTube](https://www.youtube.com/playlist?list=PLPj3KCksGbSYG0ciIQUWJru1dWstPHshe) video series.
 
-LNbits is inspired by all the great work of [opennode.com](https://www.opennode.com/), and in particular [lnpay.co](https://lnpay.co/). Both work as funding sources for LNbits.
+LNbits is inspired by all the great work of [opennode.com](https://www.opennode.com/), and in particular now defunct lnpay.co. Opennode also works as funding source for LNbits.
 
 ## Running LNbits
 
